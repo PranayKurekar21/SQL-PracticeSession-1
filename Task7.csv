@@ -1,0 +1,8 @@
+"employeeid","firstname","lastname","email","phonenumber","hiredate","salary","departmentid","isactive","jobtitle"
+1,"Aaditi","Kature","aaditik@gmail.com","8325696541","2024-09-12",80000,"1",True,"Software Engineer"
+6,"Aditi","Sharma","aditi.sharma@example.com","9876543210","2019-02-15",45000,"1",True,"Software Engineer"
+17,"Ajay","Bansal","ajay.bansal@example.com","9945678901","2021-07-13",59000,"2",True,"Recruitment Specialist"
+22,"Alok","Chauhan","alok.chauhan@example.com","9911223344","2020-11-05",72000,"3",True,"Senior Consultant"
+28,"Abhinav","Tiwari","abhinav.tiwari@example.com","9945678234","2019-06-27",58000,"5",True,"Executive Assistant"
+47,"Amit","Gupta","amit.gupta@example.com","9876541234","2017-03-29",80000,"1",True,"Project Manager"
+53,"Arjun","Nair","arjun.nair@example.com","9876501234","2020-08-30",60000,"2",True,"System Administrator"
